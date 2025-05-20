@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\denio\\source\\repos\\MeD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55C33979-4D2C-4DC7-BCF1-69AA857287B9}|AuthorizationService.Application\\AuthorizationService.Application.csproj|c:\\users\\denio\\source\\repos\\med\\authorizationservice.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C33979-4D2C-4DC7-BCF1-69AA857287B9}|AuthorizationService.Application\\AuthorizationService.Application.csproj|solutionrelative:authorizationservice.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7F3AD4-2B4F-4B88-903E-DB1A6C505F8B}|Core\\Core.csproj|c:\\users\\denio\\source\\repos\\med\\core\\logging\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7F3AD4-2B4F-4B88-903E-DB1A6C505F8B}|Core\\Core.csproj|solutionrelative:core\\logging\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C33979-4D2C-4DC7-BCF1-69AA857287B9}|AuthorizationService.Application\\AuthorizationService.Application.csproj|c:\\users\\denio\\source\\repos\\med\\authorizationservice.application\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55C33979-4D2C-4DC7-BCF1-69AA857287B9}|AuthorizationService.Application\\AuthorizationService.Application.csproj|solutionrelative:authorizationservice.application\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C33979-4D2C-4DC7-BCF1-69AA857287B9}|AuthorizationService.Application\\AuthorizationService.Application.csproj|c:\\users\\denio\\source\\repos\\med\\authorizationservice.application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55C33979-4D2C-4DC7-BCF1-69AA857287B9}|AuthorizationService.Application\\AuthorizationService.Application.csproj|solutionrelative:authorizationservice.application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C33979-4D2C-4DC7-BCF1-69AA857287B9}|AuthorizationService.Application\\AuthorizationService.Application.csproj|c:\\users\\denio\\source\\repos\\med\\authorizationservice.application\\handlers\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C33979-4D2C-4DC7-BCF1-69AA857287B9}|AuthorizationService.Application\\AuthorizationService.Application.csproj|solutionrelative:authorizationservice.application\\handlers\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8104DE-240C-4783-8319-FA24E64E7DD1}|AuthorizationService.Persistence\\AuthorizationService.Persistence.csproj|c:\\users\\denio\\source\\repos\\med\\authorizationservice.persistence\\repositories\\authorizationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8104DE-240C-4783-8319-FA24E64E7DD1}|AuthorizationService.Persistence\\AuthorizationService.Persistence.csproj|solutionrelative:authorizationservice.persistence\\repositories\\authorizationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8104DE-240C-4783-8319-FA24E64E7DD1}|AuthorizationService.Persistence\\AuthorizationService.Persistence.csproj|c:\\users\\denio\\source\\repos\\med\\authorizationservice.persistence\\mappers\\authorizationusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8104DE-240C-4783-8319-FA24E64E7DD1}|AuthorizationService.Persistence\\AuthorizationService.Persistence.csproj|solutionrelative:authorizationservice.persistence\\mappers\\authorizationusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8104DE-240C-4783-8319-FA24E64E7DD1}|AuthorizationService.Persistence\\AuthorizationService.Persistence.csproj|c:\\users\\denio\\source\\repos\\med\\authorizationservice.persistence\\entities\\authorizationuserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8104DE-240C-4783-8319-FA24E64E7DD1}|AuthorizationService.Persistence\\AuthorizationService.Persistence.csproj|solutionrelative:authorizationservice.persistence\\entities\\authorizationuserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7043EC-C71C-498A-8357-92B7D634734C}|AuthorizationService.Domain\\AuthorizationService.Domain.csproj|c:\\users\\denio\\source\\repos\\med\\authorizationservice.domain\\repositories\\iauthorizationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7043EC-C71C-498A-8357-92B7D634734C}|AuthorizationService.Domain\\AuthorizationService.Domain.csproj|solutionrelative:authorizationservice.domain\\repositories\\iauthorizationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7043EC-C71C-498A-8357-92B7D634734C}|AuthorizationService.Domain\\AuthorizationService.Domain.csproj|c:\\users\\denio\\source\\repos\\med\\authorizationservice.domain\\model\\authorizationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7043EC-C71C-498A-8357-92B7D634734C}|AuthorizationService.Domain\\AuthorizationService.Domain.csproj|solutionrelative:authorizationservice.domain\\model\\authorizationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C33979-4D2C-4DC7-BCF1-69AA857287B9}|AuthorizationService.Application\\AuthorizationService.Application.csproj|c:\\users\\denio\\source\\repos\\med\\authorizationservice.application\\commands\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C33979-4D2C-4DC7-BCF1-69AA857287B9}|AuthorizationService.Application\\AuthorizationService.Application.csproj|solutionrelative:authorizationservice.application\\commands\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C33979-4D2C-4DC7-BCF1-69AA857287B9}|AuthorizationService.Application\\AuthorizationService.Application.csproj|c:\\users\\denio\\source\\repos\\med\\authorizationservice.application\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55C33979-4D2C-4DC7-BCF1-69AA857287B9}|AuthorizationService.Application\\AuthorizationService.Application.csproj|solutionrelative:authorizationservice.application\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7F3AD4-2B4F-4B88-903E-DB1A6C505F8B}|Core\\Core.csproj|c:\\users\\denio\\source\\repos\\med\\core\\logging\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7F3AD4-2B4F-4B88-903E-DB1A6C505F8B}|Core\\Core.csproj|solutionrelative:core\\logging\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7F3AD4-2B4F-4B88-903E-DB1A6C505F8B}|Core\\Core.csproj|c:\\users\\denio\\source\\repos\\med\\core\\dto\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7F3AD4-2B4F-4B88-903E-DB1A6C505F8B}|Core\\Core.csproj|solutionrelative:core\\dto\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\denio\\source\\repos\\MeD\\Core\\Logging\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "Core\\Logging\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\denio\\source\\repos\\MeD\\Core\\Logging\\ConsoleLogger.cs",
+              "RelativeToolTip": "Core\\Logging\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:48:00.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorizationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Persistence\\Repositories\\AuthorizationUserRepository.cs",
+              "RelativeDocumentMoniker": "AuthorizationService.Persistence\\Repositories\\AuthorizationUserRepository.cs",
+              "ToolTip": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Persistence\\Repositories\\AuthorizationUserRepository.cs",
+              "RelativeToolTip": "AuthorizationService.Persistence\\Repositories\\AuthorizationUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:35:00.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorizationUserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Persistence\\Entities\\AuthorizationUserEntity.cs",
+              "RelativeDocumentMoniker": "AuthorizationService.Persistence\\Entities\\AuthorizationUserEntity.cs",
+              "ToolTip": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Persistence\\Entities\\AuthorizationUserEntity.cs",
+              "RelativeToolTip": "AuthorizationService.Persistence\\Entities\\AuthorizationUserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:34:41.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorizationUserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Persistence\\Mappers\\AuthorizationUserMapper.cs",
+              "RelativeDocumentMoniker": "AuthorizationService.Persistence\\Mappers\\AuthorizationUserMapper.cs",
+              "ToolTip": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Persistence\\Mappers\\AuthorizationUserMapper.cs",
+              "RelativeToolTip": "AuthorizationService.Persistence\\Mappers\\AuthorizationUserMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:29:38.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Application\\Handlers\\RegisterUserHandler.cs",
+              "RelativeDocumentMoniker": "AuthorizationService.Application\\Handlers\\RegisterUserHandler.cs",
+              "ToolTip": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Application\\Handlers\\RegisterUserHandler.cs",
+              "RelativeToolTip": "AuthorizationService.Application\\Handlers\\RegisterUserHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:24:08.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Application\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthorizationService.Application\\appsettings.json",
+              "ToolTip": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Application\\appsettings.json",
+              "RelativeToolTip": "AuthorizationService.Application\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T18:21:46.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Application\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthorizationService.Application\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Application\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthorizationService.Application\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T18:21:32.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Application\\Program.cs",
+              "RelativeDocumentMoniker": "AuthorizationService.Application\\Program.cs",
+              "ToolTip": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Application\\Program.cs",
+              "RelativeToolTip": "AuthorizationService.Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:21:22.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Application\\Commands\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "AuthorizationService.Application\\Commands\\RegisterUserCommand.cs",
+              "ToolTip": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Application\\Commands\\RegisterUserCommand.cs",
+              "RelativeToolTip": "AuthorizationService.Application\\Commands\\RegisterUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:23:24.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthorizationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Domain\\Repositories\\IAuthorizationUserRepository.cs",
+              "RelativeDocumentMoniker": "AuthorizationService.Domain\\Repositories\\IAuthorizationUserRepository.cs",
+              "ToolTip": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Domain\\Repositories\\IAuthorizationUserRepository.cs",
+              "RelativeToolTip": "AuthorizationService.Domain\\Repositories\\IAuthorizationUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:04:10.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Application\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AuthorizationService.Application\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Application\\appsettings.Development.json",
+              "RelativeToolTip": "AuthorizationService.Application\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T18:21:48.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorizationUser.cs",
+              "DocumentMoniker": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Domain\\Model\\AuthorizationUser.cs",
+              "RelativeDocumentMoniker": "AuthorizationService.Domain\\Model\\AuthorizationUser.cs",
+              "ToolTip": "C:\\Users\\denio\\source\\repos\\MeD\\AuthorizationService.Domain\\Model\\AuthorizationUser.cs",
+              "RelativeToolTip": "AuthorizationService.Domain\\Model\\AuthorizationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:36:25.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\denio\\source\\repos\\MeD\\Core\\Logging\\ILogger.cs",
+              "RelativeDocumentMoniker": "Core\\Logging\\ILogger.cs",
+              "ToolTip": "C:\\Users\\denio\\source\\repos\\MeD\\Core\\Logging\\ILogger.cs",
+              "RelativeToolTip": "Core\\Logging\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:44:50.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\denio\\source\\repos\\MeD\\Core\\Dto\\Result.cs",
+              "RelativeDocumentMoniker": "Core\\Dto\\Result.cs",
+              "ToolTip": "C:\\Users\\denio\\source\\repos\\MeD\\Core\\Dto\\Result.cs",
+              "RelativeToolTip": "Core\\Dto\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:42:47.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
