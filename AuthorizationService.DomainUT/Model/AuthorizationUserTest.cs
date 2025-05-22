@@ -4,24 +4,32 @@ namespace AuthorizationService.DomainUT.Model;
 
 public class AuthorizationUserTest
 {
-    [TestCase]
-    public void Constructor()
+    [Test]
+    public void VerifyPassword()
     {
         var id = Guid.NewGuid();
-        var login = "login";
-        var password = new byte[] { 1, 2, 3 };
-        var createDateTime = new DateTime(2025, 5, 20, 22, 19, 0);
-        var editDateTime = new DateTime(2025, 5, 20, 22, 20, 0);
-
-        var user = new AuthorizationUser(id, login, password, createDateTime, editDateTime);
+        var login = "test";
+        var plainPassword = "my_secret";
+        var hashed = BCrypt.Net.BCrypt.HashPassword(plainPassword);
+        var user = new AuthorizationUser(id, login, System.Text.Encoding.UTF8.GetBytes(hashed));
 
         Assert.Multiple(() =>
         {
-            Assert.That(user.Id, Is.EqualTo(id));
-            Assert.That(user.Login, Is.EqualTo(login));
-            Assert.That(user.Password, Is.EqualTo(password));
-            Assert.That(user.CreateDateTime, Is.EqualTo(createDateTime));
-            Assert.That(user.EditDateTime, Is.EqualTo(editDateTime));
+            Assert.That(user.VerifyPassword("my_secret"), Is.True);
+            Assert.That(user.VerifyPassword("wrong_password"), Is.False);
+        });
+    }
+
+    [Test]
+    public void Create()
+    {
+        var id = Guid.NewGuid();
+        var user = AuthorizationUser.Create(id, "test", "pass123");
+
+        Assert.Multiple(() =>
+        {
+            Assert.That(user.VerifyPassword("pass123"), Is.True);
+            Assert.That(user.VerifyPassword("wrong"), Is.False);
         });
     }
 }

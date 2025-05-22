@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option csharp_namespace = "UserService.Grpc";
+
+package userservice;
+
+service UserService {
+  rpc GetUserByLogin (GetUserByLoginRequest) returns (GetUserByLoginResponse);
+}
+
+message GetUserByLoginRequest {
+  string login = 1;
+}
+
+message GetUserByLoginResponse {
+  string id = 1;
+  string login = 2;
+  string passwordHash = 3;
+  string createdAt = 4;
+  string updatedAt = 5;
+}

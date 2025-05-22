@@ -1,4 +1,6 @@
-﻿namespace AuthorizationService.Domain.Model;
+﻿using System.Text;
+
+namespace AuthorizationService.Domain.Model;
 
 public class AuthorizationUser
 {
@@ -19,8 +21,15 @@ public class AuthorizationUser
     public DateTime CreateDateTime { get; }
     public DateTime EditDateTime { get; }
 
-    public bool VerifyPassword(byte[] inputPassword)
+    public static AuthorizationUser Create(Guid id, string login, string rawPassword)
     {
-        return Password.SequenceEqual(inputPassword); // TODO: rework
+        var hashed = BCrypt.Net.BCrypt.HashPassword(rawPassword);
+        return new AuthorizationUser(id, login, Encoding.UTF8.GetBytes(hashed));
+    }
+
+    public bool VerifyPassword(string inputPassword)
+    {
+        var stored = Encoding.UTF8.GetString(Password);
+        return BCrypt.Net.BCrypt.Verify(inputPassword, stored);
     }
 }

@@ -13,11 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizationService.Applic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizationService.Persistence", "AuthorizationService.Persistence\AuthorizationService.Persistence.csproj", "{FB8104DE-240C-4783-8319-FA24E64E7DD1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AuthorizationServiceUT", "AuthorizationServiceUT", "{0A37F05A-FB5B-47E8-84B9-115092C80396}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreUT", "CoreUT\CoreUT.csproj", "{EEF9A548-8E97-4837-B20B-6548495B8FA1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizationService.DomainUT", "AuthorizationService.DomainUT\AuthorizationService.DomainUT.csproj", "{432ACDEF-E290-49E0-9FCA-5C087F548C75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizationService.ApplicationUT", "AuthorizationService.ApplicationUT\AuthorizationService.ApplicationUT.csproj", "{71294DF9-6308-4A1A-B237-AE89E872898C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +49,10 @@ Global
 		{432ACDEF-E290-49E0-9FCA-5C087F548C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{432ACDEF-E290-49E0-9FCA-5C087F548C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{432ACDEF-E290-49E0-9FCA-5C087F548C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71294DF9-6308-4A1A-B237-AE89E872898C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71294DF9-6308-4A1A-B237-AE89E872898C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71294DF9-6308-4A1A-B237-AE89E872898C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71294DF9-6308-4A1A-B237-AE89E872898C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -57,7 +61,8 @@ Global
 		{8D7043EC-C71C-498A-8357-92B7D634734C} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
 		{55C33979-4D2C-4DC7-BCF1-69AA857287B9} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
 		{FB8104DE-240C-4783-8319-FA24E64E7DD1} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
-		{432ACDEF-E290-49E0-9FCA-5C087F548C75} = {0A37F05A-FB5B-47E8-84B9-115092C80396}
+		{432ACDEF-E290-49E0-9FCA-5C087F548C75} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+		{71294DF9-6308-4A1A-B237-AE89E872898C} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A9DA4D48-868A-4E40-A0E6-E9B48A6B30BC}
